@@ -1,0 +1,27 @@
+html {
+  font-size: 18px;
+  background-color: grey;
+}
+h1 {
+  text-align: center;
+  text-decoration: underline;
+}
+figcaption {
+  font-size: 10.7px;
+  font-style: italic;
+  font-weight: bold;
+}
+ul {
+  text-align: center;
+  font-size: 19px;
+}
+h3 {
+  font-size: 28px;
+  text-align: center;
+}
+img {
+  max-width: 100%;
+  height: auto;
+  margin: 0 auto;
+  display: block;
+}
